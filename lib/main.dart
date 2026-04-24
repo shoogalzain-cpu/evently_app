@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
       routes: {
         AppRoutes.homeRouteName:(context)=> HomeScreen(),
       },
+      locale: Locale('en'),
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
     );
