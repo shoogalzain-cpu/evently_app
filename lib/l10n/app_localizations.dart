@@ -98,6 +98,12 @@ abstract class AppLocalizations {
     Locale('en'),
   ];
 
+  /// No description provided for @language.
+  ///
+  /// In en, this message translates to:
+  /// **'Language'**
+  String get language;
+
   /// No description provided for @english.
   ///
   /// In en, this message translates to:
@@ -127,6 +133,156 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Light'**
   String get light;
+
+  /// No description provided for @start.
+  ///
+  /// In en, this message translates to:
+  /// **'Let’s Start'**
+  String get start;
+
+  /// No description provided for @onboarding_title_1.
+  ///
+  /// In en, this message translates to:
+  /// **'Personalize Your Experience'**
+  String get onboarding_title_1;
+
+  /// No description provided for @onboarding_desc_1.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose your preferred theme and language to get started with a comfortable, tailored experience that suits your style.'**
+  String get onboarding_desc_1;
+
+  /// No description provided for @onboarding_title_2.
+  ///
+  /// In en, this message translates to:
+  /// **'Find Events That Inspire You'**
+  String get onboarding_title_2;
+
+  /// No description provided for @onboarding_desc_2.
+  ///
+  /// In en, this message translates to:
+  /// **'Dive into a world of events crafted to fit your unique interests. Whether you\'re into live music, art workshops, professional networking, or simply discovering new experiences, we have something for everyone. Our curated recommendations will help you explore, connect, and make the most of every opportunity around you.'**
+  String get onboarding_desc_2;
+
+  /// No description provided for @onboarding_title_3.
+  ///
+  /// In en, this message translates to:
+  /// **'Effortless Event Planning'**
+  String get onboarding_title_3;
+
+  /// No description provided for @onboarding_desc_3.
+  ///
+  /// In en, this message translates to:
+  /// **'Take the hassle out of organizing events with our all-in-one planning tools. From setting up invites and managing RSVPs to scheduling reminders and coordinating details, we’ve got you covered. Plan with ease and focus on what matters - creating an unforgettable experience for you and your guests.'**
+  String get onboarding_desc_3;
+
+  /// No description provided for @onboarding_title_4.
+  ///
+  /// In en, this message translates to:
+  /// **'Connect with Friends & Share Moments'**
+  String get onboarding_title_4;
+
+  /// No description provided for @onboarding_desc_4.
+  ///
+  /// In en, this message translates to:
+  /// **'Make every event memorable by sharing the experience with others. Our platform lets you invite friends, keep everyone in the loop, and celebrate moments together. Capture and share the excitement with your network, so you can relive the highlights and cherish the memories.'**
+  String get onboarding_desc_4;
+
+  /// No description provided for @register.
+  ///
+  /// In en, this message translates to:
+  /// **'Register'**
+  String get register;
+
+  /// No description provided for @forgetPassword.
+  ///
+  /// In en, this message translates to:
+  /// **'Forget Password'**
+  String get forgetPassword;
+
+  /// No description provided for @email.
+  ///
+  /// In en, this message translates to:
+  /// **'Email'**
+  String get email;
+
+  /// No description provided for @appName.
+  ///
+  /// In en, this message translates to:
+  /// **'Evently'**
+  String get appName;
+
+  /// No description provided for @password.
+  ///
+  /// In en, this message translates to:
+  /// **'Password'**
+  String get password;
+
+  /// No description provided for @name.
+  ///
+  /// In en, this message translates to:
+  /// **'Name'**
+  String get name;
+
+  /// No description provided for @forgetPasswordQuestion.
+  ///
+  /// In en, this message translates to:
+  /// **'Forget Password?'**
+  String get forgetPasswordQuestion;
+
+  /// No description provided for @login.
+  ///
+  /// In en, this message translates to:
+  /// **'Login'**
+  String get login;
+
+  /// No description provided for @resetPassword.
+  ///
+  /// In en, this message translates to:
+  /// **'Reset Password'**
+  String get resetPassword;
+
+  /// No description provided for @dontHaveAccount.
+  ///
+  /// In en, this message translates to:
+  /// **'Don\'t Have Account? Create Account'**
+  String get dontHaveAccount;
+
+  /// No description provided for @or.
+  ///
+  /// In en, this message translates to:
+  /// **'Or'**
+  String get or;
+
+  /// No description provided for @rePassword.
+  ///
+  /// In en, this message translates to:
+  /// **'Re-enter Password'**
+  String get rePassword;
+
+  /// No description provided for @loginWithGoogle.
+  ///
+  /// In en, this message translates to:
+  /// **'Login With Google'**
+  String get loginWithGoogle;
+
+  /// No description provided for @createAccount.
+  ///
+  /// In en, this message translates to:
+  /// **'Create Account'**
+  String get createAccount;
+
+  /// No description provided for @alreadyHaveAccount.
+  ///
+  /// In en, this message translates to:
+  /// **'Already Have Account?'**
+  String get alreadyHaveAccount;
+
+  /// No description provided for @loginAction.
+  ///
+  /// In en, this message translates to:
+  /// **'Login'**
+  String get loginAction;
 }
 
 class _AppLocalizationsDelegate
