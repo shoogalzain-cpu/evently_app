@@ -30,6 +30,9 @@ class AppLocalizationsEn extends AppLocalizations {
   String get start => 'Let’s Start';
 
   @override
+  String get logout => 'Logout';
+
+  @override
   String get onboarding_title_1 => 'Personalize Your Experience';
 
   @override

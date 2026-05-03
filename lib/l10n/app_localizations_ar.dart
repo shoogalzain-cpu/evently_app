@@ -30,6 +30,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String get start => 'ابدأ';
 
   @override
+  String get logout => 'تسجيل الخروج';
+
+  @override
   String get onboarding_title_1 => 'خصص تجربتك';
 
   @override

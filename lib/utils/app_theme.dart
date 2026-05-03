@@ -8,7 +8,8 @@ class AppTheme{
     scaffoldBackgroundColor: AppColors.whiteBgColor,
     textTheme: TextTheme(
       headlineLarge: AppStyles.bold20Black
-    )
+    ),
+
   );
 
   static final ThemeData darkTheme = ThemeData(
@@ -16,6 +17,7 @@ class AppTheme{
       scaffoldBackgroundColor: AppColors.primaryDark,
       textTheme: TextTheme(
           headlineLarge: AppStyles.bold20whit
-      )
+      ),
   );
+
 }

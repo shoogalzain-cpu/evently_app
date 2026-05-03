@@ -140,6 +140,12 @@ abstract class AppLocalizations {
   /// **'Let’s Start'**
   String get start;
 
+  /// No description provided for @logout.
+  ///
+  /// In en, this message translates to:
+  /// **'Logout'**
+  String get logout;
+
   /// No description provided for @onboarding_title_1.
   ///
   /// In en, this message translates to:

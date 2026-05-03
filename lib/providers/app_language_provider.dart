@@ -11,4 +11,5 @@ class AppLanguageProvider extends ChangeNotifier{
     notifyListeners();
 
   }
+  bool get isEnglish => appLanguage =='en';
 }
